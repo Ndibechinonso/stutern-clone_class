@@ -68,14 +68,13 @@ background-color: red;
     padding-right: 15%;
     padding-top: 100px;
     padding-bottom: 100px;
+    color: #ffffff;
+    font-size: 20px;
     background-image: linear-gradient(128deg,rgba(17,10,73,0.95),rgba(42,10,73,0.98));
 }
-.left_section{
-    color: #ffffff;
-}
+
 .left_section h2{
     color: #1BD3C6;
-    font-size: 20px;
     font-weight: 500;
 }
 .left_section h1{
@@ -92,4 +91,13 @@ background-color: red;
     background-color: #1bd3c6;
     color:#0B091C;
     font-weight: 700;
+    font-size: 16px;
+}
+.right_section h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+.right_section .card_container{
+    margin-top: 20px;
+
 }
